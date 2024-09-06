@@ -4,3 +4,10 @@
 
 ZCZC W00 10 L03 Github related
 ZCZC W00 10 L04 GitHub Pages related
+ZCZC W00 90 L09 Week 0 assignment done
+ZCZC W00 20 L05 Preparing and doing quiz
+
+ZCZC W01 20 L06 Reading and learning some basic Linux commands
+ZCZC W01 20 L21 Set up AnyDesk to access home station from college laptop
+ZCZC W01 10 L61 Install VirtualBox
+ZCZC W01 25 L62 Install Debian Guest
