@@ -17,3 +17,11 @@ ZCZC W01 30 L06 Watched YouTube about some regex stuff the night before quiz
 ZCZC W01 25 L05 Review and quiz time
 ZCZC W01 30 L27 Had to redo some steps of setting up public key because apparently I skipped a step beforehand
 ZCZC W01 40 L04 A lot of confusion about the Markdown syntax and generally decorating the page
+
+ZCZC W02 60 L12 Weekly Assignment 02 officially done (surprisingly straight forward)
+ZCZC W02 40 L05 Review regex for quiz (there was no regex in the quiz)
+ZCZC W02 15 L09 Tried to blindly do POPQUIZ W02-1
+ZCZC W02 30 L32 Reviewed uses of grep, sed, and awk via YouTube
+ZCZC W02 15 L06 Google here and there
+ZCZC W02 15 L26 Verifying location of keys and the safety of them
+ZCZC W02 90 L09 LOTS of testing for POPQUIZ W02-1 (including debugging), finally done
