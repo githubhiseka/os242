@@ -32,3 +32,8 @@ ZCZC W03 90 L13 Week 3 assignments (took more time because i didnt realize i mis
 ZCZC W03 25 L06 Reading some tutorials related to C programming and makefile
 ZCZC W03 15 L64 Helping fstab stuff
 ZCZC W03 20 L81 Listening to some sad songs while rethinking life choices
+
+ZCZC W04 200 L02 Offline class
+ZCZC W04 20 L05 Short quiz prep
+ZCZC W04 40 L14 Week 4 assignments (surprisingly quite easy this time)
+ZCZC W04 15 L62 Learning a bit about Debian Guest backup
