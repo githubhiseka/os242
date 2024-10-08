@@ -44,3 +44,4 @@ ZCZC W05 15 L01 Asking questions about this week's assignment
 ZCZC W05 40 L15 Quite the practice for a newly learned programming language
 ZCZC W05 10 L16 Done with week 5 assignments, continue with pop quiz
 ZCZC W05 20 L09 Pop Quiz 1 and 3 done, still a bit of confusion for Pop Quiz 4
+ZCZC W05 15 L09 Pop quiz 4 done
