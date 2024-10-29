@@ -45,3 +45,8 @@ ZCZC W05 40 L15 Quite the practice for a newly learned programming language
 ZCZC W05 10 L16 Done with week 5 assignments, continue with pop quiz
 ZCZC W05 20 L09 Pop Quiz 1 and 3 done, still a bit of confusion for Pop Quiz 4
 ZCZC W05 15 L09 Pop quiz 4 done
+
+ZCZC W06 20 L09 Week 06 assignments done
+ZCZC W06 30 L06 Reading some Google for Pop Quiz 1 through 4
+ZCZC W06 20 L09 Asking friends to help make script for Pop Quiz 5
+ZCZC W06 60 L09 Very long process of npm install for Docusaurus (but finally done)
