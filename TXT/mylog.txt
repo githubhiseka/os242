@@ -50,3 +50,7 @@ ZCZC W06 20 L09 Week 06 assignments done
 ZCZC W06 30 L06 Reading some Google for Pop Quiz 1 through 4
 ZCZC W06 20 L09 Asking friends to help make script for Pop Quiz 5
 ZCZC W06 60 L09 Very long process of npm install for Docusaurus (but finally done)
+
+ZCZC W07 30 L09 Week 07 assignments done
+ZCZC W07 200 L02 Offline class
+ZCZC W07 60 L09 Pop Quiz done
