@@ -54,3 +54,8 @@ ZCZC W06 60 L09 Very long process of npm install for Docusaurus (but finally don
 ZCZC W07 30 L09 Week 07 assignments done
 ZCZC W07 200 L02 Offline class
 ZCZC W07 60 L09 Pop Quiz done
+
+ZCZC W08 200 L02 Offline class
+ZCZC W08 40 L13 Stopped halfway because apparently I skipped a step
+ZCZC W08 30 L13 Finished what I started
+ZCZC W08 30 L09 PopQuiz all done
