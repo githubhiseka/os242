@@ -59,3 +59,9 @@ ZCZC W08 200 L02 Offline class
 ZCZC W08 40 L13 Stopped halfway because apparently I skipped a step
 ZCZC W08 30 L13 Finished what I started
 ZCZC W08 30 L09 PopQuiz all done
+
+ZCZC W09 200 L02 Offline class
+ZCZC W09 90 L13 A lot of waiting for the packages to install
+ZCZC W09 20 L09 A bit of confusion and testing to do POPQUIZ W09-1
+ZCZC W09 30 L09 The rest of the POPQUIZ
+ZCZC W09 30 L06 Studying and doing weekly quiz
